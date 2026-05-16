@@ -6,11 +6,29 @@ A 3D protein ligand visualizer built with React Native (Expo). Fetches molecular
 
 ## App Preview
 
-### Sign-in Screen
-![Sign-in Screen](assets/swifty-proteins-signing-screen.jpg)
-
-### App Showcase
+### Video Showcase
 <video src="assets/swifty-proteins-appshowcase.mp4" controls width="100%"></video>
+
+### Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets/screen1.jpg" width="100%"/></td>
+    <td><img src="assets/screen2.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen3.jpg" width="100%"/></td>
+    <td><img src="assets/screen4.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen5.jpg" width="100%"/></td>
+    <td><img src="assets/screen6.jpg" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screen7.jpg" width="100%"/></td>
+    <td><img src="assets/screen8.jpg" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
